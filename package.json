@@ -1,0 +1,21 @@
+{
+  "name": "ice-age-theme",
+  "displayName": "Ice Age Theme",
+  "description": "Ice Age colour Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ice Age",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ice Age-color-theme.json"
+      }
+    ]
+  }
+}
