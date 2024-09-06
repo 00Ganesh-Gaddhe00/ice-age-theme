@@ -2,8 +2,8 @@
 
 All notable changes to the "ice-age-theme" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## V1.1
 
-## [Unreleased]
-
-- Initial release
+- Initial release of the IceAge theme.
+- Includes monochromatic black and white color scheme.
+- Provides a custom icon theme that complements the visual style.

@@ -2,15 +2,17 @@
 
 This theme is designed using only different shades of white. The shades have been carefully selected for various editor tokens (functions, storage/data types, variables, bracket levels, etc.), as well as buttons, windows, icons, and selectors etc. ensuring they are distinguishable in a manner similar to color-based contrasts.
 
-### The IceAge Theme
+## The IceAge Theme
 ![screenshot1](./screenshot1.png)
 
-##
+#
 While the primary aim is to experiment with visual creativity, the theme is highly usable, offering sufficient tokens contrast comparable to any other VScode color-themes contrast. However, due to the high contrast between the background and foreground for aesthetic purposes, it may cause slight eye strain. I would like to create an alternative version in the future that strikes a better balance between comfort and visual appeal.
 
 ![screenshot2](./screenshot2.png)
 
-## IceAge Icons
+#
+
+# IceAge Icons
 <p align="center">
   <img src="./iconssc2.png" alt="Screenshot 1" height="500"/>
   <img src="./iconssc1.png" alt="Screenshot 2" height="500"/>
@@ -18,6 +20,8 @@ While the primary aim is to experiment with visual creativity, the theme is high
 
 To achieve a clean, monotone look, please remember to set the IceAge icon theme alongside the IceAge color theme, or alternatively, disable icons entirely. Since the color theme and icons are separate settings in VS Code, they have been designed and packaged individually
 
+
+#
 
 ## Installation Guide for IceAge Theme & Icons
 

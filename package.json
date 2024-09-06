@@ -3,6 +3,7 @@
   "displayName": "IceAge Theme",
   "description": "A monochromatic theme with black and white contrast, featuring simple and clean icons designed to suit the theme.",
   "version": "0.0.1",
+  "publisher": "GaneshGaddhe",
   "engines": {
     "vscode": "^1.92.0"
   },
@@ -12,7 +13,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Iceage",
+        "label": "Iceage color theme",
         "uiTheme": "vs-dark",
         "path": "./themes/Ice Age-color-theme.json"
       }
@@ -20,7 +21,7 @@
     "iconThemes": [
       {
         "id": "noIconsTheme",
-        "label": "Iceage",
+        "label": "Iceage icons",
         "path": "./icons/IceAge-icons-theme.json"
       }
     ]
@@ -41,7 +42,6 @@
     "white",
     "black",
     "Dark",
-    "Light",
     "IceAge",
     "color-theme",
     "icons"
