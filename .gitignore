@@ -1,2 +1,5 @@
 node_modules
-*.vsix
+
+themes/Ice Age-color-theme.json
+icon.png
+icons

@@ -1,7 +1,7 @@
 {
   "name": "ice-age-theme",
-  "displayName": "Ice Age Theme",
-  "description": "Ice Age colour Theme",
+  "displayName": "IceAge Theme",
+  "description": "A monochromatic theme with black and white contrast, featuring simple and clean icons designed to suit the theme.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.92.0"
@@ -12,10 +12,39 @@
   "contributes": {
     "themes": [
       {
-        "label": "Ice Age",
+        "label": "Iceage",
         "uiTheme": "vs-dark",
         "path": "./themes/Ice Age-color-theme.json"
       }
+    ],
+    "iconThemes": [
+      {
+        "id": "noIconsTheme",
+        "label": "Iceage",
+        "path": "./icons/IceAge-icons-theme.json"
+      }
     ]
-  }
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MrLaGa/ice-age-theme"
+  },
+  "icon": "icon.png",
+
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  },
+  "keywords": [
+    "Theme",
+    "white",
+    "black",
+    "Dark",
+    "Light",
+    "IceAge",
+    "color-theme",
+    "icons"
+  ]
+
 }
