@@ -2,7 +2,7 @@
   "name": "ice-age-theme",
   "displayName": "IceAge Theme",
   "description": "A monochromatic theme with black and white contrast, featuring simple and clean icons designed to suit the theme.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "GaneshGaddhe",
   "engines": {
     "vscode": "^1.92.0"
