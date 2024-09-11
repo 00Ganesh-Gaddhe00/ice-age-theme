@@ -1,6 +1,4 @@
- # <h1 align="center">IceAge for <span color="#D8D8D8">visual studio </span>
-<img src="./icon2.png" alt="IceAge Logo" height="100" align="right"/>
-</h1>
+# <h1 align="center">IceAge for <span color="#D8D8D8">visual studio </span></h1>
 
 This theme is designed using only different shades of white. The shades have been carefully selected for various editor tokens (functions, storage/data types, variables, bracket levels, etc.), as well as buttons, windows, icons, and selectors etc. ensuring they are distinguishable in a manner similar to color-based contrasts.
 
